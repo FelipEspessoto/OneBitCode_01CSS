@@ -1,0 +1,16 @@
+body{
+    background-color: #2E5067;
+}
+h1, li{
+    color:#fff;
+}
+h3{
+    color:#D2C71B;
+}
+.week{
+    background-color: #D2C71B;
+    border: 2px solid;
+}
+#li2{
+    color:#e74c3c;
+}
